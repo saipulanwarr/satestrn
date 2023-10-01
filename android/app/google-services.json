@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847110721761",
+    "project_id": "satest-41585",
+    "storage_bucket": "satest-41585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847110721761:android:b77fed7f4d2bae631127a0",
+        "android_client_info": {
+          "package_name": "com.satest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCsLqFbUe1ZRpQ7ImNxRoVt5h8rJebEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
